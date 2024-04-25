@@ -1,0 +1,20 @@
+.Welcome {
+    margin: 12px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    background-color: transparent;
+    color: red;
+}
+section {
+    margin: 10px;
+    padding: 10px;
+}
+article {
+    margin: 10px;
+    padding: 10px;
+    background-color: transparent;
+    color: black;
+}  
+
